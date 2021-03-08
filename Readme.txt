@@ -1,6 +1,1 @@
-Thanks for downloading this theme!
-
-Theme Name: TheEvent
-Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+TED Conferences LLC (Technology, Entertainment, Design) is an American media organization that post talks online for free distribution under the slogan "Ideas worth spreading".TEDx GLAU is an initiative started in the year 2016. From then, till now, series of events are happening under this banner. 
